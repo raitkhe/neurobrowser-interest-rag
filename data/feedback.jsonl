@@ -1,0 +1,6 @@
+{"query_id":"q1","prompt":"Как оценивать качество RAG?","answer":"Используйте Recall@k для retrieval и ручную проверку достоверности ответа со ссылками [1].","rating":5,"accepted":true}
+{"query_id":"q1","prompt":"Как оценивать качество RAG?","answer":"Достаточно смотреть только accuracy генератора.","rating":1,"accepted":false}
+{"query_id":"q2","prompt":"Что почитать про обучение LLM?","answer":"Начните с SFT, затем изучите preference optimization и риски reward hacking [1][2].","rating":5,"accepted":true}
+{"query_id":"q2","prompt":"Что почитать про обучение LLM?","answer":"Почитайте любые статьи про нейросети.","rating":2,"accepted":false}
+{"query_id":"q3","prompt":"Как построить профиль интересов?","answer":"Взвешивайте эмбеддинги событий по давности, времени просмотра и явной обратной связи [1].","rating":4,"accepted":true}
+{"query_id":"q3","prompt":"Как построить профиль интересов?","answer":"Сохраните последнюю открытую страницу как единственный интерес пользователя.","rating":1,"accepted":false}

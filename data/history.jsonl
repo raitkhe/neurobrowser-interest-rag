@@ -1,0 +1,10 @@
+{"page_id":"ml_rag","title":"Практический RAG: retrieval, reranking и generation","text":"RAG, поиск кандидатов, reranking, генерация и метрики качества.","dwell_seconds":540,"timestamp":"2026-06-29T20:10:00"}
+{"page_id":"ml_agents","title":"Как устроен поисковый LLM-агент","text":"Планирование запросов, инструменты, траектории и надежность агента.","dwell_seconds":420,"timestamp":"2026-06-29T18:20:00"}
+{"page_id":"ml_eval","title":"Автоматическая оценка LLM и RAG-систем","text":"Eval-наборы, LLM-as-a-judge, regression tests и мониторинг.","dwell_seconds":610,"timestamp":"2026-06-29T16:30:00"}
+{"page_id":"ml_sft","title":"SFT: как дообучать языковую модель на инструкциях","text":"Supervised fine-tuning на парах запрос и ответ, фильтрация данных.","dwell_seconds":360,"timestamp":"2026-06-28T22:00:00"}
+{"page_id":"ml_rl","title":"RLHF, DPO и GRPO для улучшения ответов LLM","text":"Reward model, DPO, GRPO и риски reward hacking.","dwell_seconds":390,"timestamp":"2026-06-28T20:00:00"}
+{"page_id":"prog_tests","title":"Тестирование ML-пайплайнов","text":"Unit-тесты, data checks и контроль деградации качества.","dwell_seconds":250,"timestamp":"2026-06-27T13:00:00"}
+{"page_id":"prog_fastapi","title":"FastAPI для сервиса машинного обучения","text":"Inference API, схемы данных и мониторинг сервиса.","dwell_seconds":190,"timestamp":"2026-06-26T11:00:00"}
+{"page_id":"travel_alps","title":"Небольшие города во французских Альпах","text":"Маршруты, поезда, горы и короткая поездка.","dwell_seconds":180,"timestamp":"2026-06-22T19:00:00"}
+{"page_id":"travel_france_car","title":"Аренда автомобиля во Франции для молодого водителя","text":"Возраст, стаж, доплаты и условия проката.","dwell_seconds":210,"timestamp":"2026-06-21T15:00:00"}
+{"page_id":"camera_sony","title":"Sony Cyber-shot: особенности старых компактных моделей","text":"Компактные камеры Sony, проверка объектива и аккумулятора.","dwell_seconds":120,"timestamp":"2026-06-16T18:00:00"}

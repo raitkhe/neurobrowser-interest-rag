@@ -1,0 +1,8 @@
+{"query":"Что мне почитать дальше?","relevant_ids":["ml_rag","ml_agents","ml_eval","ml_sft","ml_rl"]}
+{"query":"Как улучшать ответы языковой модели после SFT?","relevant_ids":["ml_rl","ml_sft"]}
+{"query":"Как автоматически проверять качество ассистента?","relevant_ids":["ml_eval","prog_tests","edu_metrics"]}
+{"query":"Как устроить поиск по документам и переранжирование?","relevant_ids":["ml_rag","ml_agents"]}
+{"query":"Как построить профиль интересов пользователя?","relevant_ids":["ml_interest"]}
+{"query":"Как надежно запускать вызовы инструментов агента?","relevant_ids":["prog_async","prog_logging","ml_agents"]}
+{"query":"Куда съездить во Франции на несколько дней?","relevant_ids":["travel_alps","travel_paris"]}
+{"query":"Как подготовить небольшой ML-проект к собеседованию?","relevant_ids":["edu_interview","edu_portfolio","prog_python"]}
