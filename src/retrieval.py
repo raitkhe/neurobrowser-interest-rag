@@ -47,8 +47,6 @@ class PersonalizedRetriever:
                 [profile.category_scores.get(page.category, 0.0) for page in self.pages]
             )
 
-            # Explicit queries should be driven mostly by the query itself.
-            # Personalization becomes stronger only when the wording is vague.
             max_query_score = float(query_scores.max(initial=0.0))
             specificity = min(max_query_score / 0.30, 1.0)
             dynamic_query_weight = 0.55 + 0.35 * specificity
